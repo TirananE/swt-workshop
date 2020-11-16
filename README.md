@@ -1,3 +1,3 @@
 # swt-workshop
 
-## By Tiranan Emson  6110546003
+By: Tiranan Emson  6110546003
